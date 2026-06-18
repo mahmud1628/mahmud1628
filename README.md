@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Abdullah Al Mahmud
-🎓 I'm currently a 3rd year CSE student at BUET (Bangladesh University of Engineering and Technology).
+🎓 I'm currently a 4th year CSE student at BUET (Bangladesh University of Engineering and Technology).
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmud1628&label=Profile%20views&color=0e75b6&style=flat" alt="mahmud1628" /> </p>
